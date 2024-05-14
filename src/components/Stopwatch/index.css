@@ -1,0 +1,81 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+  padding-left: 90px;
+  padding-top: 60px;
+}
+.main-heading {
+  color: #333333;
+  font-family: 'Roboto';
+  font-size: 26px;
+}
+.card-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 20%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ margin-left: 40px;
+}
+.container {
+  display: flex;
+  text-align: center;
+  margin-left: 90px;
+}
+.para {
+  font-size: 20px;
+  margin-left: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+.image {
+  width: 20%;
+  height: 6vh;
+  margin-top: 15px;
+}
+.parrass {
+  text-align: center;
+  color: #333333;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.button1 {
+  background-color: #1db05f;
+  margin: 10px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 0px;
+  color: #ffffffff;
+  cursor: pointer;
+  outline: none;
+}
+.button2 {
+  background-color: #ef0d36;
+  margin: 10px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 0px;
+  color: #ffffffff;
+  cursor: pointer;
+  outline: none;
+}
+.button3 {
+  background-color: #eaa800;
+  margin: 10px;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 0px;
+  color: #ffffffff;
+  cursor: pointer;
+  outline: none;
+}
